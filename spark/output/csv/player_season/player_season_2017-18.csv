@@ -1,0 +1,161 @@
+,PERSON_ID,DISPLAY_LAST_COMMA_FIRST,DISPLAY_FIRST_LAST,ROSTERSTATUS,FROM_YEAR,TO_YEAR,PLAYERCODE,TEAM_ID,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CODE,GAMES_PLAYED_FLAG,season
+0,201167,"Afflalo, Arron",Arron Afflalo,1,2007,2017,arron_afflalo,1610612753,Orlando,Magic,ORL,magic,Y,2017-18
+1,201582,"Ajinca, Alexis",Alexis Ajinca,1,2008,2017,alexis_ajinca,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+2,202332,"Aldrich, Cole",Cole Aldrich,1,2010,2017,cole_aldrich,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2017-18
+3,1628443,"Allen, Kadeem",Kadeem Allen,1,2017,2018,kadeem_allen,1610612738,Boston,Celtics,BOS,celtics,Y,2017-18
+4,2754,"Allen, Tony",Tony Allen,0,2004,2017,tony_allen,0,,,,,Y,2017-18
+5,201589,"Arthur, Darrell",Darrell Arthur,1,2008,2017,darrell_arthur,1610612743,Denver,Nuggets,DEN,nuggets,Y,2017-18
+6,1628503,"Artis, Jamel",Jamel Artis,1,2017,2017,jamel_artis,1610612753,Orlando,Magic,ORL,magic,Y,2017-18
+7,201600,"Asik, Omer",Omer Asik,1,2010,2017,omer_asik,1610612741,Chicago,Bulls,CHI,bulls,Y,2017-18
+8,202337,"Babbitt, Luke",Luke Babbitt,1,2010,2017,luke_babbitt,1610612748,Miami,Heat,MIA,heat,Y,2017-18
+9,1627758,"Baker, Ron",Ron Baker,1,2016,2018,ron_baker,1610612752,New York,Knicks,NYK,knicks,Y,2017-18
+10,1628444,"Bird, Jabari",Jabari Bird,1,2017,2018,jabari_bird,1610612738,Boston,Celtics,BOS,celtics,Y,2017-18
+11,204028,"Black, Tarik",Tarik Black,1,2014,2017,tarik_black,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+12,203505,"Blue, Vander",Vander Blue,0,2013,2017,vander_blue,0,,,,,Y,2017-18
+13,101106,"Bogut, Andrew",Andrew Bogut,0,2005,2017,andrew_bogut,0,,,,,Y,2017-18
+14,1627762,"Bolomboy, Joel",Joel Bolomboy,0,2016,2017,joel_bolomboy,0,,,,,Y,2017-18
+15,202344,"Booker, Trevor",Trevor Booker,1,2010,2017,trevor_booker,1610612754,Indiana,Pacers,IND,pacers,Y,2017-18
+16,201166,"Brooks, Aaron",Aaron Brooks,1,2007,2017,aaron_brooks,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2017-18
+17,202705,"Brooks, MarShon",MarShon Brooks,1,2011,2018,marshon_brooks,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+18,1626148,"Brown, Anthony",Anthony Brown,1,2015,2017,anthony_brown,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2017-18
+19,201628,"Brown, Bobby",Bobby Brown,0,2008,2017,bobby_brown,0,,,,,Y,2017-18
+20,203485,"Brown, Lorenzo",Lorenzo Brown,1,2013,2018,lorenzo_brown,1610612761,Toronto,Raptors,TOR,raptors,Y,2017-18
+21,203900,"Brown, Markel",Markel Brown,1,2014,2017,markel_brown,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+22,1627852,"Brussino, Nicolas",Nicolas Brussino,0,2016,2017,nicolas_brussino,0,,,,,Y,2017-18
+23,202779,"Buycks, Dwight",Dwight Buycks,1,2013,2017,dwight_buycks,1610612765,Detroit,Pistons,DET,pistons,Y,2017-18
+24,203998,"Caboclo, Bruno",Bruno Caboclo,1,2014,2017,bruno_caboclo,1610612758,Sacramento,Kings,SAC,kings,Y,2017-18
+25,203487,"Carter-Williams, Michael",Michael Carter-Williams,1,2013,2018,michael_carter-williams,1610612766,Charlotte,Hornets,CHA,hornets,Y,2017-18
+26,201596,"Chalmers, Mario",Mario Chalmers,1,2008,2017,mario_chalmers,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+27,1628492,"Clavell, Gian",Gian Clavell,0,2017,2017,gian_clavell,0,,,,,Y,2017-18
+28,1628499,"Cleveland, Antonius",Antonius Cleveland,1,2017,2017,antonius_cleveland,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+29,1627858,"Collinsworth, Kyle",Kyle Collinsworth,1,2017,2017,kyle_collinsworth,1610612742,Dallas,Mavericks,DAL,mavericks,Y,2017-18
+30,2555,"Collison, Nick",Nick Collison,1,2003,2017,nick_collison,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2017-18
+31,1628429,"Cooke, Charles",Charles Cooke,1,2017,2017,charles_cooke,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+32,204022,"Cooley, Jack",Jack Cooley,1,2014,2017,jack_cooley,1610612758,Sacramento,Kings,SAC,kings,Y,2017-18
+33,1627856,"Costello, Matt",Matt Costello,1,2017,2017,matt_costello,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+34,202326,"Cousins, DeMarcus",DeMarcus Cousins,1,2010,2018,demarcus_cousins,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+35,202348,"Crawford, Jordan",Jordan Crawford,1,2010,2017,jordan_crawford,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+36,1627738,"Davis, Deyonta",Deyonta Davis,1,2016,2017,deyonta_davis,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+37,1627098,"Delaney, Malcolm",Malcolm Delaney,1,2016,2017,malcolm_delaney,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+38,1628495,"Doyle, Milton",Milton Doyle,1,2017,2017,milton_doyle,1610612751,Brooklyn,Nets,BKN,nets,Y,2017-18
+39,203580,"Drew II, Larry",Larry Drew II,1,2014,2017,larry_drew ii,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+40,204067,"Eddie, Jarell",Jarell Eddie,1,2015,2017,jarell_eddie,1610612741,Chicago,Bulls,CHI,bulls,Y,2017-18
+41,203898,"Ennis, Tyler",Tyler Ennis,1,2014,2017,tyler_ennis,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2017-18
+42,202379,"Evans, Jeremy",Jeremy Evans,1,2010,2017,jeremy_evans,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+43,1627770,"Felder, Kay",Kay Felder,1,2016,2017,kay_felder,1610612765,Detroit,Pistons,DET,pistons,Y,2017-18
+44,1627875,"Georges-Hunt, Marcus",Marcus Georges-Hunt,1,2016,2017,marcus_georges-hunt,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2017-18
+45,1626780,"Gibson, Jonathan",Jonathan Gibson,1,2016,2017,jonathan_gibson,1610612738,Boston,Celtics,BOS,celtics,Y,2017-18
+46,1938,"Ginobili, Manu",Manu Ginobili,1,2002,2017,manu_ginobili,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+47,1627982,"Gray, Josh",Josh Gray,0,2017,2017,josh_gray,0,,,,,Y,2017-18
+48,1626151,"Harrison, Aaron",Aaron Harrison,1,2015,2017,aaron_harrison,1610612742,Dallas,Mavericks,DAL,mavericks,Y,2017-18
+49,1626150,"Harrison, Andrew",Andrew Harrison,1,2016,2018,andrew_harrison,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+50,1628502,"Hayes, Nigel",Nigel Hayes,1,2017,2017,nigel_hayes,1610612758,Sacramento,Kings,SAC,kings,Y,2017-18
+51,203687,"Hearn, Reggie",Reggie Hearn,1,2017,2017,reggie_hearn,1610612765,Detroit,Pistons,DET,pistons,Y,2017-18
+52,1627988,"Henry, Myke",Myke Henry,1,2017,2017,myke_henry,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+53,1628439,"Hicks, Isaiah",Isaiah Hicks,1,2017,2018,isaiah_hicks,1610612752,New York,Knicks,NYK,knicks,Y,2017-18
+54,1626199,"Hilliard, Darrun",Darrun Hilliard,1,2015,2017,darrun_hilliard,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+55,203816,"Hopson, Scotty",Scotty Hopson,0,2013,2017,scotty_hopson,0,,,,,Y,2017-18
+56,203962,"Huestis, Josh",Josh Huestis,1,2015,2017,josh_huestis,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2017-18
+57,1626154,"Hunter, RJ",RJ Hunter,1,2015,2018,rj_hunter,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+58,1626205,"Hunter, Vincent",Vincent Hunter,0,2017,2017,vincent_hunter,0,,,,,Y,2017-18
+59,201281,"Ingram, Andre",Andre Ingram,1,2017,2017,andre_ingram,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2017-18
+60,101127,"Jack, Jarrett",Jarrett Jack,1,2005,2017,jarrett_jack,1610612752,New York,Knicks,NYK,knicks,Y,2017-18
+61,1628935,"Jackson, Aaron",Aaron Jackson,1,2017,2017,aaron_jackson,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+62,1627743,"Jackson, Demetrius",Demetrius Jackson,1,2016,2018,demetrius_jackson,1610612755,Philadelphia,76ers,PHI,sixers,Y,2017-18
+63,1628455,"James, Mike",Mike James,0,2017,2017,mike_james,0,,,,,Y,2017-18
+64,2744,"Jefferson, Al",Al Jefferson,1,2004,2017,al_jefferson,1610612754,Indiana,Pacers,IND,pacers,Y,2017-18
+65,2210,"Jefferson, Richard",Richard Jefferson,1,2001,2017,richard_jefferson,1610612743,Denver,Nuggets,DEN,nuggets,Y,2017-18
+66,201943,"Jennings, Brandon",Brandon Jennings,1,2009,2017,brandon_jennings,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+67,1627744,"Johnson, Brice",Brice Johnson,0,2016,2017,brice_johnson,0,,,,,Y,2017-18
+68,1626177,"Johnson, Dakari",Dakari Johnson,1,2017,2017,dakari_johnson,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2017-18
+69,2207,"Johnson, Joe",Joe Johnson,1,2001,2017,joe_johnson,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+70,204179,"Johnson, Omari",Omari Johnson,0,2017,2017,omari_johnson,0,,,,,Y,2017-18
+71,1627883,"Jones, Jalen",Jalen Jones,1,2017,2018,jalen_jones,1610612742,Dallas,Mavericks,DAL,mavericks,Y,2017-18
+72,203930,"Kilpatrick, Sean",Sean Kilpatrick,1,2014,2017,sean_kilpatrick,1610612741,Chicago,Bulls,CHI,bulls,Y,2017-18
+73,1627851,"Kuzminskas, Mindaugas",Mindaugas Kuzminskas,0,2016,2017,mindaugas_kuzminskas,0,,,,,Y,2017-18
+74,203499,"Larkin, Shane",Shane Larkin,1,2013,2017,shane_larkin,1610612738,Boston,Celtics,BOS,celtics,Y,2017-18
+75,203530,"Lauvergne, Joffrey",Joffrey Lauvergne,1,2014,2017,joffrey_lauvergne,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+76,201951,"Lawson, Ty",Ty Lawson,1,2009,2017,ty_lawson,1610612764,Washington,Wizards,WAS,wizards,Y,2017-18
+77,1627215,"Lemon Jr., Walter",Walter Lemon Jr.,0,2017,2018,walter_lemon jr.,0,,,,,Y,2017-18
+78,202732,"Liggins, DeAndre",DeAndre Liggins,1,2011,2017,deandre_liggins,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+79,203705,"Magette, Josh",Josh Magette,1,2017,2017,josh_magette,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+80,1628493,"Mathiang, Mangok",Mangok Mathiang,1,2017,2017,mangok_mathiang,1610612766,Charlotte,Hornets,CHA,hornets,Y,2017-18
+81,203949,"McAdoo, James Michael",James Michael McAdoo,0,2014,2017,james michael_mcadoo,0,,,,,Y,2017-18
+82,1628571,"McCree, Erik",Erik McCree,1,2017,2017,erik_mccree,1610612762,Utah,Jazz,UTA,jazz,Y,2017-18
+83,1626191,"McCullough, Chris",Chris McCullough,1,2015,2017,chris_mccullough,1610612764,Washington,Wizards,WAS,wizards,Y,2017-18
+84,203590,"McKinney-Jones, Trey",Trey McKinney-Jones,0,2017,2017,trey_mckinney-jones,0,,,,,Y,2017-18
+85,201177,"McRoberts, Josh",Josh McRoberts,0,2007,2017,josh_mcroberts,0,,,,,Y,2017-18
+86,201975,"Meeks, Jodie",Jodie Meeks,1,2009,2017,jodie_meeks,1610612764,Washington,Wizards,WAS,wizards,Y,2017-18
+87,1626175,"Mickey, Jordan",Jordan Mickey,1,2015,2017,jordan_mickey,1610612748,Miami,Heat,MIA,heat,Y,2017-18
+88,1626259,"Miller, Malcolm",Malcolm Miller,1,2017,2017,malcolm_miller,1610612761,Toronto,Raptors,TOR,raptors,Y,2017-18
+89,1626242,"Montero, Luis",Luis Montero,0,2015,2017,luis_montero,0,,,,,Y,2017-18
+90,1628500,"Moore, Ben",Ben Moore,1,2017,2018,ben_moore,1610612754,Indiana,Pacers,IND,pacers,Y,2017-18
+91,203961,"Moreland, Eric",Eric Moreland,1,2014,2018,eric_moreland,1610612765,Detroit,Pistons,DET,pistons,Y,2017-18
+92,202389,"Mozgov, Timofey",Timofey Mozgov,1,2010,2018,timofey_mozgov,1610612751,Brooklyn,Nets,BKN,nets,Y,2017-18
+93,203498,"Muhammad, Shabazz",Shabazz Muhammad,1,2013,2017,shabazz_muhammad,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+94,204098,"Munford, Xavier",Xavier Munford,1,2015,2017,xavier_munford,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+95,1627749,"Murray, Dejounte",Dejounte Murray,1,2016,2018,dejounte_murray,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+96,2749,"Nelson, Jameer",Jameer Nelson,1,2004,2017,jameer_nelson,1610612765,Detroit,Pistons,DET,pistons,Y,2017-18
+97,203512,"Nogueira, Lucas",Lucas Nogueira,1,2014,2017,lucas_nogueira,1610612761,Toronto,Raptors,TOR,raptors,Y,2017-18
+98,203948,"O'Bryant III, Johnny",Johnny O'Bryant III,0,2014,2017,johnny_o'bryant iii,0,,,,,Y,2017-18
+99,2731,"Okafor, Emeka",Emeka Okafor,1,2004,2017,emeka_okafor,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2017-18
+100,1627778,"Onuaku, Chinanu",Chinanu Onuaku,1,2016,2017,chinanu_onuaku,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+101,1627779,"Paige, Marcus",Marcus Paige,1,2017,2017,marcus_paige,1610612766,Charlotte,Hornets,CHA,hornets,Y,2017-18
+102,1627834,"Papagiannis, Georgios",Georgios Papagiannis,1,2016,2017,georgios_papagiannis,1610612757,Portland,Trail Blazers,POR,blazers,Y,2017-18
+103,1628383,"Patton, Justin",Justin Patton,1,2017,2018,justin_patton,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2017-18
+104,203464,"Paul, Brandon",Brandon Paul,1,2017,2017,brandon_paul,1610612759,San Antonio,Spurs,SAS,spurs,Y,2017-18
+105,203940,"Payne, Adreian",Adreian Payne,0,2014,2017,adreian_payne,0,,,,,Y,2017-18
+106,1627780,"Payton II, Gary",Gary Payton II,1,2016,2017,gary_payton ii,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2017-18
+107,2570,"Perkins, Kendrick",Kendrick Perkins,1,2003,2017,kendrick_perkins,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,2017-18
+108,1628506,"Perrantes, London",London Perrantes,0,2017,2017,london_perrantes,0,,,,,Y,2017-18
+109,1628409,"Peters, Alec",Alec Peters,1,2017,2017,alec_peters,1610612756,Phoenix,Suns,PHX,suns,Y,2017-18
+110,1627850,"Plumlee, Marshall",Marshall Plumlee,1,2016,2017,marshall_plumlee,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+111,204001,"Porzingis, Kristaps",Kristaps Porzingis,1,2015,2018,kristaps_porzingis,1610612752,New York,Knicks,NYK,knicks,Y,2017-18
+112,1626643,"Pullen, Jacob",Jacob Pullen,0,2017,2017,jacob_pullen,0,,,,,Y,2017-18
+113,1628681,"Purvis, Rodney",Rodney Purvis,1,2017,2017,rodney_purvis,1610612753,Orlando,Magic,ORL,magic,Y,2017-18
+114,1627753,Zhou Qi,Zhou Qi,1,2017,2018,zhou_qi,1610612745,Houston,Rockets,HOU,rockets,Y,2017-18
+115,1627817,"Quarterman, Tim",Tim Quarterman,0,2016,2017,tim_quarterman,0,,,,,Y,2017-18
+116,2216,"Randolph, Zach",Zach Randolph,1,2001,2018,zach_randolph,1610612758,Sacramento,Kings,SAC,kings,Y,2017-18
+117,1628504,"Rathan-Mayes, Xavier",Xavier Rathan-Mayes,0,2017,2017,xavier_rathan-mayes,0,,,,,Y,2017-18
+118,203186,"Reed, Willie",Willie Reed,0,2012,2017,willie_reed,0,,,,,Y,2017-18
+119,203460,"Roberson, Andre",Andre Roberson,1,2013,2018,andre_roberson,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2017-18
+120,203960,"Sampson, JaKarr",JaKarr Sampson,1,2014,2017,jakarr_sampson,1610612758,Sacramento,Kings,SAC,kings,Y,2017-18
+121,201196,"Sessions, Ramon",Ramon Sessions,1,2007,2017,ramon_sessions,1610612764,Washington,Wizards,WAS,wizards,Y,2017-18
+122,202918,"Silas, Xavier",Xavier Silas,1,2011,2017,xavier_silas,1610612738,Boston,Celtics,BOS,celtics,Y,2017-18
+123,1628424,"Simmons, Kobi",Kobi Simmons,1,2017,2017,kobi_simmons,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+124,202713,"Singler, Kyle",Kyle Singler,1,2012,2017,kyle_singler,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2017-18
+125,2746,"Smith, Josh",Josh Smith,0,2004,2017,josh_smith,0,,,,,Y,2017-18
+126,201578,"Speights, Marreese",Marreese Speights,1,2008,2017,marreese_speights,1610612753,Orlando,Magic,ORL,magic,Y,2017-18
+127,204065,"Stockton, David",David Stockton,1,2014,2017,david_stockton,1610612762,Utah,Jazz,UTA,jazz,Y,2017-18
+128,202933,"Stone, Julyan",Julyan Stone,1,2011,2017,julyan_stone,1610612766,Charlotte,Hornets,CHA,hornets,Y,2017-18
+129,1627819,"Taylor, Isaiah",Isaiah Taylor,1,2016,2017,isaiah_taylor,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+130,203104,"Teague, Marquis",Marquis Teague,1,2012,2017,marquis_teague,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+131,203141,"Teletovic, Mirza",Mirza Teletovic,0,2012,2017,mirza_teletovic,0,,,,,Y,2017-18
+132,1891,"Terry, Jason",Jason Terry,1,1999,2017,jason_terry,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+133,202738,"Thomas, Isaiah",Isaiah Thomas,1,2011,2018,isaiah_thomas,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2017-18
+134,1627755,"Ulis, Tyler",Tyler Ulis,1,2016,2018,tyler_ulis,1610612756,Phoenix,Suns,PHX,suns,Y,2017-18
+135,1627756,"Valentine, Denzel",Denzel Valentine,1,2016,2018,denzel_valentine,1610612741,Chicago,Bulls,CHI,bulls,Y,2017-18
+136,1626173,"Vaughn, Rashad",Rashad Vaughn,0,2015,2017,rashad_vaughn,0,,,,,Y,2017-18
+137,1628476,"Walton Jr., Derrick",Derrick Walton Jr.,1,2017,2017,derrick_walton jr.,1610612748,Miami,Heat,MIA,heat,Y,2017-18
+138,1627866,"Warney, Jameel",Jameel Warney,0,2017,2017,jameel_warney,0,,,,,Y,2017-18
+139,204037,"Wear, Travis",Travis Wear,1,2014,2017,travis_wear,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2017-18
+140,1627821,"Webb III, James",James Webb III,1,2017,2017,james_webb iii,1610612751,Brooklyn,Nets,BKN,nets,Y,2017-18
+141,1627362,"Weber, Briante",Briante Weber,1,2015,2017,briante_weber,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2017-18
+142,2561,"West, David",David West,1,2003,2017,david_west,1610612744,Golden State,Warriors,GSW,warriors,Y,2017-18
+143,1627855,"White, Okaro",Okaro White,1,2016,2018,okaro_white,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,2017-18
+144,1628510,"White III, Andrew",Andrew White III,1,2017,2017,andrew_white,1610612737,Atlanta,Hawks,ATL,hawks,Y,2017-18
+145,1627785,"Whitehead, Isaiah",Isaiah Whitehead,1,2016,2018,isaiah_whitehead,1610612751,Brooklyn,Nets,BKN,nets,Y,2017-18
+146,203912,"Wilcox, CJ",CJ Wilcox,1,2014,2017,cj_wilcox,1610612757,Portland,Trail Blazers,POR,blazers,Y,2017-18
+147,1628451,"Wiley, Jacob",Jacob Wiley,0,2017,2017,jacob_wiley,0,,,,,Y,2017-18
+148,2863,"Wilkins, Damien",Damien Wilkins,0,2004,2017,damien_wilkins,0,,,,,Y,2017-18
+149,202682,"Williams, Derrick",Derrick Williams,0,2011,2017,derrick_williams,0,,,,,Y,2017-18
+150,1628475,"Williams Jr., Matt",Matt Williams Jr.,0,2017,2017,matt_williams jr.,0,,,,,Y,2017-18
+151,203966,"Wilson, Jamil",Jamil Wilson,0,2017,2017,jamil_wilson,0,,,,,Y,2017-18
+152,203481,"Withey, Jeff",Jeff Withey,0,2013,2017,jeff_withey,0,,,,,Y,2017-18
+153,203489,"Wolters, Nate",Nate Wolters,0,2013,2017,nate_wolters,0,,,,,Y,2017-18
+154,201148,"Wright, Brandan",Brandan Wright,0,2007,2017,brandan_wright,0,,,,,Y,2017-18
+155,203923,"Young, James",James Young,0,2014,2017,james_young,0,,,,,Y,2017-18
+156,1626202,"Young, Joe",Joe Young,1,2015,2017,joe_young,1610612754,Indiana,Pacers,IND,pacers,Y,2017-18
+157,201156,"Young, Nick",Nick Young,1,2007,2018,nick_young,1610612744,Golden State,Warriors,GSW,warriors,Y,2017-18
+158,203092,"Zeller, Tyler",Tyler Zeller,1,2012,2017,tyler_zeller,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2017-18
+159,1627835,"Zipser, Paul",Paul Zipser,1,2016,2017,paul_zipser,1610612741,Chicago,Bulls,CHI,bulls,Y,2017-18
