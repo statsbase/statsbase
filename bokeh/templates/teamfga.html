@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.0.2.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.0.2.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="1daa7a02-177c-4400-a577-baed7e6b06cc"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1091">
+          {"35f222ad-a212-45fe-99b8-4452e87639a7":{"roots":{"references":[{"attributes":{},"id":"1041","type":"Selection"},{"attributes":{"axis_label":"Field Goal Percentage","formatter":{"id":"1036","type":"BasicTickFormatter"},"minor_tick_line_color":{"value":null},"plot":{"id":"1002","subtype":"Figure","type":"Plot"},"ticker":{"id":"1017","type":"BasicTicker"}},"id":"1016","type":"LinearAxis"},{"attributes":{"callback":null,"data":{"Average":["46.21%","45.53%","45.36%","46.86%","45.08%","46.44%","45.16%","46.22%","44.11%","45.87%","45.76%","46.87%","45.47%","45.65%","45.19%","45.55%","46.09%","46.23%","46.41%","47.27%","45.31%","46.41%","46.11%","46.95%","47.01%","45.61%","45.60%","45.89%","46.94%","46.85%"],"FG":[46.21,45.53,45.36,46.86,45.08,46.44,45.16,46.22,44.11,45.87,45.76,46.87,45.47,45.65,45.190000000000005,45.550000000000004,46.089999999999996,46.23,46.410000000000004,47.27,45.31,46.410000000000004,46.11,46.949999999999996,47.010000000000005,45.61,45.6,45.89,46.94,46.85],"FGA":[8237,8008,7696,7838,7792,7912,7198,7898,7385,7956,7901,8250,7958,8255,7680,7737,8204,7562,7613,8181,7536,8450,7558,8156,8009,7809,7950,8299,8133,8117],"FGM":[3799,3642,3493,3668,3509,3673,3244,3647,3250,3646,3616,3864,3616,3767,3468,3523,3776,3492,3529,3865,3414,3917,3486,3833,3764,3560,3623,3800,3815,3801],"teams":["PHI","MIL","CHI","CLE","BOS","LAC","MEM","ATL","MIA","CHA","UTA","SAC","NYK","LAL","ORL","DAL","BKN","DEN","IND","NOP","DET","TOR","HOU","SAS","PHX","OKC","MIN","POR","GSW","WAS"]},"selected":{"id":"1041","type":"Selection"},"selection_policy":{"id":"1040","type":"UnionRenderers"}},"id":"1029","type":"ColumnDataSource"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"field":"FG"},"width":{"value":0.7},"x":{"field":"teams"}},"id":"1032","type":"VBar"},{"attributes":{"plot":null,"text":"Field Goal Percentages - 2018-2019"},"id":"1001","type":"Title"},{"attributes":{},"id":"1017","type":"BasicTicker"},{"attributes":{"data_source":{"id":"1029","type":"ColumnDataSource"},"glyph":{"id":"1031","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1032","type":"VBar"},"selection_glyph":null,"view":{"id":"1034","type":"CDSView"}},"id":"1033","type":"GlyphRenderer"},{"attributes":{"dimension":1,"plot":{"id":"1002","subtype":"Figure","type":"Plot"},"ticker":{"id":"1017","type":"BasicTicker"}},"id":"1020","type":"Grid"},{"attributes":{"callback":null,"factors":["NOP","PHX","SAS","GSW","SAC","CLE","WAS","LAC","IND","TOR","DEN","ATL","PHI","HOU","BKN","POR","CHA","UTA","LAL","OKC","MIN","DAL","MIL","NYK","CHI","DET","ORL","MEM","BOS","MIA"]},"id":"1004","type":"FactorRange"},{"attributes":{"source":{"id":"1029","type":"ColumnDataSource"}},"id":"1034","type":"CDSView"},{"attributes":{"below":[{"id":"1012","type":"CategoricalAxis"}],"left":[{"id":"1016","type":"LinearAxis"}],"outline_line_color":{"value":null},"plot_height":500,"plot_width":1300,"renderers":[{"id":"1012","type":"CategoricalAxis"},{"id":"1015","type":"Grid"},{"id":"1016","type":"LinearAxis"},{"id":"1020","type":"Grid"},{"id":"1033","type":"GlyphRenderer"}],"title":{"id":"1001","type":"Title"},"toolbar":{"id":"1024","type":"Toolbar"},"x_range":{"id":"1004","type":"FactorRange"},"x_scale":{"id":"1008","type":"CategoricalScale"},"y_range":{"id":"1006","type":"DataRange1d"},"y_scale":{"id":"1010","type":"LinearScale"}},"id":"1002","subtype":"Figure","type":"Plot"},{"attributes":{"fill_alpha":{"value":0.7},"fill_color":{"field":"teams","transform":{"id":"1028","type":"CategoricalColorMapper"}},"line_color":{"value":"white"},"top":{"field":"FG"},"width":{"value":0.7},"x":{"field":"teams"}},"id":"1031","type":"VBar"},{"attributes":{"callback":null,"end":100,"start":0},"id":"1006","type":"DataRange1d"},{"attributes":{},"id":"1010","type":"LinearScale"},{"attributes":{"factors":["PHI","MIL","CHI","CLE","BOS","LAC","MEM","ATL","MIA","CHA","UTA","SAC","NYK","LAL","ORL","DAL","BKN","DEN","IND","NOP","DET","TOR","HOU","SAS","PHX","OKC","MIN","POR","GSW","WAS"],"palette":["#006BB6","#00471B","#CE1141","#6F263D","#007A33","#1D42BA","#5D76A9","#C1D32F","#98002E","#00788C","#F9A01B","#5A2D81","#F58426","#FDB927","#0077C0","#00538C","#000000","#0E2240","#FDBB30","#85714D","#CE1141","#CE1141","#CE1141","#C4CED4","#E56020","#007AC1","#9EA2A2","#E03A3E","#FDB927","#002B5C"]},"id":"1028","type":"CategoricalColorMapper"},{"attributes":{"callback":null},"id":"1023","type":"TapTool"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1021","type":"CrosshairTool"},{"id":"1022","type":"HoverTool"},{"id":"1023","type":"TapTool"}]},"id":"1024","type":"Toolbar"},{"attributes":{},"id":"1008","type":"CategoricalScale"},{"attributes":{},"id":"1021","type":"CrosshairTool"},{"attributes":{"callback":null,"tooltips":[["FGM","@FGM"],["FGA","@FGA"],["Average FG%","@Average"]]},"id":"1022","type":"HoverTool"},{"attributes":{"axis_label":"Teams","axis_label_standoff":20,"formatter":{"id":"1038","type":"CategoricalTickFormatter"},"minor_tick_line_color":{"value":null},"plot":{"id":"1002","subtype":"Figure","type":"Plot"},"ticker":{"id":"1013","type":"CategoricalTicker"}},"id":"1012","type":"CategoricalAxis"},{"attributes":{},"id":"1036","type":"BasicTickFormatter"},{"attributes":{},"id":"1013","type":"CategoricalTicker"},{"attributes":{},"id":"1038","type":"CategoricalTickFormatter"},{"attributes":{},"id":"1040","type":"UnionRenderers"},{"attributes":{"grid_line_color":{"value":null},"plot":{"id":"1002","subtype":"Figure","type":"Plot"},"ticker":{"id":"1013","type":"CategoricalTicker"}},"id":"1015","type":"Grid"}],"root_ids":["1002"]},"title":"Bokeh Application","version":"1.0.2"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1091').textContent;
+                  var render_items = [{"docid":"35f222ad-a212-45fe-99b8-4452e87639a7","roots":{"1002":"1daa7a02-177c-4400-a577-baed7e6b06cc"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
