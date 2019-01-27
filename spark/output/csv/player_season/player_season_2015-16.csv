@@ -1,0 +1,102 @@
+,PERSON_ID,DISPLAY_LAST_COMMA_FIRST,DISPLAY_FIRST_LAST,ROSTERSTATUS,FROM_YEAR,TO_YEAR,PLAYERCODE,TEAM_ID,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CODE,GAMES_PLAYED_FLAG,season
+0,203919,"Adams, Jordan",Jordan Adams,1,2014,2015,jordan_adams,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2015-16
+1,1626146,"Alexander, Cliff",Cliff Alexander,1,2015,2015,cliff_alexander,1610612757,Portland,Trail Blazers,POR,blazers,Y,2015-16
+2,200811,"Amundson, Lou",Lou Amundson,1,2006,2015,lou_amundson,1610612752,New York,Knicks,NYK,knicks,Y,2015-16
+3,2365,"Andersen, Chris",Chris Andersen,1,2001,2016,chris_andersen,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2015-16
+4,202341,"Anderson, James",James Anderson,1,2010,2015,james_anderson,1610612758,Sacramento,Kings,SAC,kings,Y,2015-16
+5,203648,"Antetokounmpo, Thanasis",Thanasis Antetokounmpo,0,2015,2015,thanasis_antetokounmpo,0,,,,,Y,2015-16
+6,203951,"Appling, Keith",Keith Appling,0,2015,2015,keith_appling,0,,,,,Y,2015-16
+7,201965,"Ayres, Jeff",Jeff Ayres,1,2009,2015,jeff_ayres,1610612746,LA,Clippers,LAC,clippers,Y,2015-16
+8,203946,"Bairstow, Cameron",Cameron Bairstow,1,2014,2015,cameron_bairstow,1610612741,Chicago,Bulls,CHI,bulls,Y,2015-16
+9,203946,"Bairstow, Cameron",Cameron Bairstow,1,2014,2015,cameron_bairstow,1610612765,Detroit,Pistons,DET,pistons,Y,2015-16
+10,200745,"Bargnani, Andrea",Andrea Bargnani,0,2006,2015,andrea_bargnani,0,,,,,Y,2015-16
+11,201971,"Blair, DeJuan",DeJuan Blair,0,2009,2015,dejuan_blair,0,,,,,Y,2015-16
+12,2581,"Blake, Steve",Steve Blake,1,2003,2015,steve_blake,1610612765,Detroit,Pistons,DET,pistons,Y,2015-16
+13,101106,"Bogut, Andrew",Andrew Bogut,1,2005,2017,andrew_bogut,1610612744,Golden State,Warriors,GSW,warriors,Y,2015-16
+14,2588,"Bonner, Matt",Matt Bonner,1,2004,2015,matt_bonner,1610612759,San Antonio,Spurs,SAS,spurs,Y,2015-16
+15,2547,"Bosh, Chris",Chris Bosh,1,2003,2016,chris_bosh,1610612748,Miami,Heat,MIA,heat,Y,2015-16
+16,1882,"Brand, Elton",Elton Brand,1,1999,2015,elton_brand,1610612755,Philadelphia,76ers,PHI,sixers,Y,2015-16
+17,977,"Bryant, Kobe",Kobe Bryant,1,1996,2015,kobe_bryant,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2015-16
+18,201978,"Budinger, Chase",Chase Budinger,1,2009,2015,chase_budinger,1610612756,Phoenix,Suns,PHX,suns,Y,2015-16
+19,2406,"Butler, Caron",Caron Butler,1,2002,2015,caron_butler,1610612758,Sacramento,Kings,SAC,kings,Y,2015-16
+20,2446,"Butler, Rasual",Rasual Butler,0,2002,2015,rasual_butler,0,,,,,Y,2015-16
+21,1626262,"Clarke, Coty",Coty Clarke,0,2015,2015,coty_clarke,0,,,,,Y,2015-16
+22,203142,"Copeland, Chris",Chris Copeland,0,2012,2015,chris_copeland,0,,,,,Y,2015-16
+23,203955,"Cotton, Bryce",Bryce Cotton,1,2014,2015,bryce_cotton,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2015-16
+24,203099,"Cunningham, Jared",Jared Cunningham,0,2012,2015,jared_cunningham,0,,,,,Y,2015-16
+25,1626183,"Dawson, Branden",Branden Dawson,1,2015,2015,branden_dawson,1610612746,LA,Clippers,LAC,clippers,Y,2015-16
+26,1626214,"Dejean-Jones, Bryce",Bryce Dejean-Jones,0,2015,2015,bryce_dejean-jones,0,,,,,Y,2015-16
+27,201962,"Douglas, Toney",Toney Douglas,1,2009,2016,toney_douglas,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2015-16
+28,1626251,"Dukan, Duje",Duje Dukan,1,2015,2015,duje_dukan,1610612758,Sacramento,Kings,SAC,kings,Y,2015-16
+29,1495,"Duncan, Tim",Tim Duncan,1,1997,2015,tim_duncan,1610612759,San Antonio,Spurs,SAS,spurs,Y,2015-16
+30,203921,"Early, Cleanthony",Cleanthony Early,1,2014,2015,cleanthony_early,1610612752,New York,Knicks,NYK,knicks,Y,2015-16
+31,203105,"Ezeli, Festus",Festus Ezeli,1,2012,2016,festus_ezeli,1610612744,Golden State,Warriors,GSW,warriors,Y,2015-16
+32,200770,"Farmar, Jordan",Jordan Farmar,1,2006,2016,jordan_farmar,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2015-16
+33,202690,"Fredette, Jimmer",Jimmer Fredette,0,2011,2015,jimmer_fredette,0,,,,,Y,2015-16
+34,708,"Garnett, Kevin",Kevin Garnett,1,1995,2015,kevin_garnett,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2015-16
+35,202087,"Gee, Alonzo",Alonzo Gee,1,2009,2016,alonzo_gee,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2015-16
+36,2400,"Gooden, Drew",Drew Gooden,1,2002,2015,drew_gooden,1610612764,Washington,Wizards,WAS,wizards,Y,2015-16
+37,202726,"Goudelock, Andrew",Andrew Goudelock,1,2011,2015,andrew_goudelock,1610612745,Houston,Rockets,HOU,rockets,Y,2015-16
+38,203475,"Green, Erick",Erick Green,0,2014,2015,erick_green,0,,,,,Y,2015-16
+39,203268,"Gutierrez, Jorge",Jorge Gutierrez,1,2013,2015,jorge_gutierrez,1610612766,Charlotte,Hornets,CHA,hornets,Y,2015-16
+40,203798,"Hairston, PJ",PJ Hairston,1,2014,2015,pj_hairston,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,2015-16
+41,202706,"Hamilton, Jordan",Jordan Hamilton,1,2011,2015,jordan_hamilton,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,2015-16
+42,201946,"Hansbrough, Tyler",Tyler Hansbrough,1,2009,2015,tyler_hansbrough,1610612766,Charlotte,Hornets,CHA,hornets,Y,2015-16
+43,101236,"Hayes, Chuck",Chuck Hayes,0,2005,2015,chuck_hayes,0,,,,,Y,2015-16
+44,201581,"Hickson, JJ",JJ Hickson,1,2008,2015,jj_hickson,1610612764,Washington,Wizards,WAS,wizards,Y,2015-16
+45,2550,"Hinrich, Kirk",Kirk Hinrich,1,2003,2015,kirk_hinrich,1610612737,Atlanta,Hawks,ATL,hawks,Y,2015-16
+46,204066,"Holland, John",John Holland,1,2015,2018,john_holland,1610612738,Boston,Celtics,BOS,celtics,Y,2015-16
+47,200797,"Hollins, Ryan",Ryan Hollins,0,2006,2015,ryan_hollins,0,,,,,Y,2015-16
+48,1626273,"Huertas, Marcelo",Marcelo Huertas,1,2015,2016,marcelo_huertas,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2015-16
+49,203996,"Inglis, Damien",Damien Inglis,1,2014,2015,damien_inglis,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2015-16
+50,203928,"Jefferson, Cory",Cory Jefferson,0,2014,2015,cory_jefferson,0,,,,,Y,2015-16
+51,203098,"Jenkins, John",John Jenkins,1,2012,2016,john_jenkins,1610612756,Phoenix,Suns,PHX,suns,Y,2015-16
+52,203187,"Johnson, Chris",Chris Johnson,1,2012,2015,chris_johnson,1610612762,Utah,Jazz,UTA,jazz,Y,2015-16
+53,203111,"Johnson, Orlando",Orlando Johnson,0,2012,2015,orlando_johnson,0,,,,,Y,2015-16
+54,203093,"Jones, Terrence",Terrence Jones,1,2012,2016,terrence_jones,1610612745,Houston,Rockets,HOU,rockets,Y,2015-16
+55,2549,"Kaman, Chris",Chris Kaman,1,2003,2015,chris_kaman,1610612757,Portland,Trail Blazers,POR,blazers,Y,2015-16
+56,203508,"Karasev, Sergey",Sergey Karasev,1,2013,2015,sergey_karasev,1610612751,Brooklyn,Nets,BKN,nets,Y,2015-16
+57,201619,"Kaun, Sasha",Sasha Kaun,1,2015,2015,sasha_kaun,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,2015-16
+58,201171,"Landry, Carl",Carl Landry,1,2007,2015,carl_landry,1610612755,Philadelphia,76ers,PHI,sixers,Y,2015-16
+59,203906,"Marble, Devyn",Devyn Marble,1,2014,2015,devyn_marble,1610612753,Orlando,Magic,ORL,magic,Y,2015-16
+60,203088,"Marshall, Kendall",Kendall Marshall,1,2012,2015,kendall_marshall,1610612755,Philadelphia,76ers,PHI,sixers,Y,2015-16
+61,2755,"Martin, Kevin",Kevin Martin,1,2004,2015,kevin_martin,1610612759,San Antonio,Spurs,SAS,spurs,Y,2015-16
+62,201564,"Mayo, O.J.",O.J. Mayo,1,2008,2015,o.j._mayo,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2015-16
+63,203492,"McCallum, Ray",Ray McCallum,0,2013,2015,ray_mccallum,0,,,,,Y,2015-16
+64,203956,"McGary, Mitch",Mitch McGary,1,2014,2015,mitch_mcgary,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2015-16
+65,1889,"Miller, Andre",Andre Miller,1,1999,2015,andre_miller,1610612759,San Antonio,Spurs,SAS,spurs,Y,2015-16
+66,1737,"Mohammed, Nazr",Nazr Mohammed,1,1998,2015,nazr_mohammed,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,2015-16
+67,1626242,"Montero, Luis",Luis Montero,1,2015,2017,luis_montero,1610612757,Portland,Trail Blazers,POR,blazers,Y,2015-16
+68,200779,"Novak, Steve",Steve Novak,1,2006,2016,steve_novak,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2015-16
+69,1626266,"O'Brien, JJ",JJ O'Brien,0,2015,2015,jj_o'brien,0,,,,,Y,2015-16
+70,203123,"Papanikolaou, Kostas",Kostas Papanikolaou,0,2014,2015,kostas_papanikolaou,0,,,,,Y,2015-16
+71,203934,"Patterson, Lamar",Lamar Patterson,1,2015,2016,lamar_patterson,1610612737,Atlanta,Hawks,ATL,hawks,Y,2015-16
+72,201593,"Pekovic, Nikola",Nikola Pekovic,1,2010,2016,nikola_pekovic,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2015-16
+73,202353,"Pleiss, Tibor",Tibor Pleiss,1,2015,2015,tibor_pleiss,1610612762,Utah,Jazz,UTA,jazz,Y,2015-16
+74,203515,"Pressey, Phil",Phil Pressey,0,2013,2015,phil_pressey,0,,,,,Y,2015-16
+75,203143,"Prigioni, Pablo",Pablo Prigioni,1,2012,2015,pablo_prigioni,1610612746,LA,Clippers,LAC,clippers,Y,2015-16
+76,2419,"Prince, Tayshaun",Tayshaun Prince,1,2002,2015,tayshaun_prince,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2015-16
+77,101126,"Robinson, Nate",Nate Robinson,0,2005,2015,nate_robinson,0,,,,,Y,2015-16
+78,203135,"Sacre, Robert",Robert Sacre,1,2012,2015,robert_sacre,1610612747,Los Angeles,Lakers,LAL,lakers,Y,2015-16
+79,2449,"Scola, Luis",Luis Scola,1,2007,2016,luis_scola,1610612761,Toronto,Raptors,TOR,raptors,Y,2015-16
+80,203156,"Sims, Henry",Henry Sims,1,2012,2015,henry_sims,1610612751,Brooklyn,Nets,BKN,nets,Y,2015-16
+81,202388,"Sloan, Donald",Donald Sloan,1,2011,2015,donald_sloan,1610612751,Brooklyn,Nets,BKN,nets,Y,2015-16
+82,202962,"Smith, Greg",Greg Smith,1,2011,2015,greg_smith,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,2015-16
+83,2746,"Smith, Josh",Josh Smith,1,2004,2017,josh_smith,1610612745,Houston,Rockets,HOU,rockets,Y,2015-16
+84,203893,"Smith, Russ",Russ Smith,0,2014,2015,russ_smith,0,,,,,Y,2015-16
+85,1627293,"Stepheson, Alex",Alex Stepheson,0,2015,2015,alex_stepheson,0,,,,,Y,2015-16
+86,2405,"Stoudemire, Amar'e",Amar'e Stoudemire,1,2002,2015,amar'e_stoudemire,1610612748,Miami,Heat,MIA,heat,Y,2015-16
+87,201155,"Stuckey, Rodney",Rodney Stuckey,1,2007,2016,rodney_stuckey,1610612754,Indiana,Pacers,IND,pacers,Y,2015-16
+88,203096,"Sullinger, Jared",Jared Sullinger,1,2012,2016,jared_sullinger,1610612738,Boston,Celtics,BOS,celtics,Y,2015-16
+89,203138,"Thompson, Hollis",Hollis Thompson,1,2013,2016,hollis_thompson,1610612755,Philadelphia,76ers,PHI,sixers,Y,2015-16
+90,201574,"Thompson, Jason",Jason Thompson,1,2008,2015,jason_thompson,1610612761,Toronto,Raptors,TOR,raptors,Y,2015-16
+91,201977,"Thornton, Marcus",Marcus Thornton,1,2009,2016,marcus_thornton,1610612764,Washington,Wizards,WAS,wizards,Y,2015-16
+92,2760,"Varejao, Anderson",Anderson Varejao,1,2004,2016,anderson_varejao,1610612744,Golden State,Warriors,GSW,warriors,Y,2015-16
+93,202349,"Vasquez, Greivis",Greivis Vasquez,1,2010,2016,greivis_vasquez,1610612749,Milwaukee,Bucks,MIL,bucks,Y,2015-16
+94,101111,"Villanueva, Charlie",Charlie Villanueva,1,2005,2015,charlie_villanueva,1610612742,Dallas,Mavericks,DAL,mavericks,Y,2015-16
+95,201603,"Weems, Sonny",Sonny Weems,0,2008,2015,sonny_weems,0,,,,,Y,2015-16
+96,203963,"Whittington, Shayne",Shayne Whittington,1,2014,2015,shayne_whittington,1610612754,Indiana,Pacers,IND,pacers,Y,2015-16
+97,202343,"Williams, Elliot",Elliot Williams,0,2010,2015,elliot_williams,0,,,,,Y,2015-16
+98,2590,"Williams, Mo",Mo Williams,1,2003,2015,mo_williams,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,2015-16
+99,2748,"Wright, Dorell",Dorell Wright,1,2004,2015,dorell_wright,1610612748,Miami,Heat,MIA,heat,Y,2015-16
+100,203100,"Wroten, Tony",Tony Wroten,1,2012,2015,tony_wroten,1610612752,New York,Knicks,NYK,knicks,Y,2015-16

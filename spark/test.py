@@ -24,17 +24,18 @@ allPlayerSeasonInfo = './output/allPlayerSeasonInfo.csv'
 allPlayerInfo = './output/allPlayerInfo.csv'
 teamColor = './output/teamColor.csv'
 allGameLog = 'output/allGameLog.csv'
-try:
-    os.remove(allBoxScore)
-except OSError:
-    pass
+
+#try:
+#    os.remove(allBoxScore)
+#except OSError:
+#    pass
 
 regularGameList = np.array([])
 teamList = np.array([])
 playerList = np.array([])
 
 leagueID = '00'
-seasons = ['2018-19', '2017-18', '2016-17']
+seasons = ['2018-19', '2017-18', '2016-17','2015-16','2014-15']
 gametype = ['Regular Season', 'All Star', 'Playoffs']
 currentSeason= '1'
 
@@ -103,7 +104,7 @@ def gameInfos():
     gl.to_csv(allGameLog)
 
 def boxScores():
-    bs = pd.DataFrame()
+    bs = pd.read_csv(allBoxScore)
     for game in regularGameList:
         game = str(game)
         if len(game) == 8:
@@ -117,9 +118,6 @@ def boxScores():
             df = pd.DataFrame.from_dict(data['rowSet'])
             df.columns = data['headers']
             df.to_csv(filepath)
-            bs = bs.append(df)
-        else:
-            df = pd.read_csv(filepath)
             bs = bs.append(df)
     bs.to_csv(allBoxScore)
 
@@ -247,7 +245,7 @@ def map():
         MAX(CASE WHEN outcome = 'W' THEN team ELSE 0 END) as win,
         MAX(CASE WHEN matchup LIKE '%vs%' THEN pts ELSE 0 END) as home_points,
         MAX(CASE WHEN matchup LIKE '%@%' THEN pts ELSE 0 END) as away_points,
-        MAX(season) as season,
+        SUBSTR(MAX(season),2,5) as season,
         MAX(game_type) as game_type
         FROM (SELECT
         GAME_ID as id,
@@ -307,7 +305,7 @@ def map():
 
     sp = sqlContext.sql(""" SELECT
         c.player_id,
-        d.season,
+        d.season as season,
         c.team_id,
         SUM(CASE WHEN start_position IS NOT NULL THEN 1 ELSE 0 END) as games_started,
         COUNT(*) as games_played,
