@@ -7,7 +7,7 @@ teams = Blueprint('teams', __name__)
 
 @teams.route("/teams/fta", methods=['GET'])
 def teamfta():
-	return render_template('teamfta.html')
+	return render_template('teams/teamfta.html')
 
 
 
