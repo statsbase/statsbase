@@ -3,13 +3,11 @@ import os
 
 app = Flask(__name__)
 
-teams = Blueprint('teams', __name__)
+teams = Blueprint('teams', __name__, template_folder='teams')
 
 @teams.route("/teams/fta", methods=['GET'])
 def teamfta():
 	return render_template('teams/teamfta.html')
-
-
 
 
 

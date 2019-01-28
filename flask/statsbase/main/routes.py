@@ -16,4 +16,6 @@ def about():
     return render_template('about.html', title='About')
 
 
-
+@main.route("/teams")
+def teams():
+	return render_template('teams/teams.html', title='Teams')

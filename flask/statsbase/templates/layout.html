@@ -30,6 +30,7 @@
             <div class="navbar-nav mr-auto">
               <a class="nav-item nav-link" href="{{ url_for('main.home') }}">Home</a>
               <a class="nav-item nav-link" href="{{ url_for('main.about') }}">About</a>
+              <a class="nav-item nav-link" href="{{ url_for('main.teams') }}">Teams</a>
             </div>
             <!-- Navbar Right Side -->
             <div class="navbar-nav">
@@ -47,6 +48,8 @@
       </nav>
     </header>
     <main role="main" class="container">
+      <div class='output'>
+        {% include 'teams/teamfta.html' %} 
     <!--   <div class="">
         <button onclick='teamfta()'>Team FT Percentages in 2018-2019</button>
         </div> -->

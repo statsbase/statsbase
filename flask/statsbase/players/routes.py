@@ -3,7 +3,7 @@ import os
 
 app = Flask(__name__)
 
-players = Blueprint('players', __name__, template_folder='statsbase/bokeh/templates')
+players = Blueprint('players', __name__, template_folder='players')
 
 @players.route("/players/guards/fta", methods=['GET'])
 def guardsfta():
