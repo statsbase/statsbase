@@ -1,10 +1,7 @@
 from flask import render_template, request, Blueprint, Flask
 import os
-APP_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEMPLATE_PATH = os.path.join(APP_PATH, 'bokeh')
-TEMPLATE_PATH = os.path.join(APP_PATH, 'templates')
 
-app = Flask(__name__, template_folder=TEMPLATE_PATH)
+app = Flask(__name__)
 
 teams = Blueprint('teams', __name__)
 

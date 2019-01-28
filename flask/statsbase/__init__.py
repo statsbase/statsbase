@@ -30,12 +30,14 @@ def create_app(config_class=Config):
     from statsbase.main.routes import main
     from statsbase.errors.handlers import errors
     from statsbase.teams.routes import teams
+    from statsbase.players.routes import players
     app.register_blueprint(users)
     app.register_blueprint(posts)
     app.register_blueprint(api)
     app.register_blueprint(main)
     app.register_blueprint(errors)
     app.register_blueprint(teams)
+    app.register_blueprint(players)
 
     return app
 
