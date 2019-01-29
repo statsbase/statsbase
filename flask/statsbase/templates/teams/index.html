@@ -16,63 +16,27 @@ http://www.tooplate.com/view/2093-flight
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/fontAwesome.css">
-        <link rel="stylesheet" href="css/hero-slider.css">
-        <link rel="stylesheet" href="css/owl-carousel.css">
-        <link rel="stylesheet" href="css/datepicker.css">
-        <link rel="stylesheet" href="css/tooplate-style.css">
-
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
 
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-
-        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.10.js"></script>
-        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-api-0.12.10.js"></script>
+        <script src="{{ url_for('static', filename='js/datepicker.js') }}"></script>
     </head>
 
 <body>
 
-   <header class="site-header">
-      <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
-        <div class="container">
-          <a class="navbar-brand mr-4" href="/">Statsbase</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarToggle">
-            <div class="navbar-nav mr-auto">
-              <a class="nav-item nav-link" href="{{ url_for('main.home') }}">Home</a>
-              <a class="nav-item nav-link" href="{{ url_for('main.about') }}">About</a>
-            </div>
-            <!-- Navbar Right Side -->
-            <div class="navbar-nav">
-              {% if current_user.is_authenticated %}
-                <a class="nav-item nav-link" href="{{ url_for('posts.new_post') }}">New Post</a>
-                <a class="nav-item nav-link" href="{{ url_for('users.account') }}">Account</a>
-                <a class="nav-item nav-link" href="{{ url_for('users.logout') }}">Logout</a>
-              {% else %}
-                <a class="nav-item nav-link" href="{{ url_for('users.login') }}">Login</a>
-                <a class="nav-item nav-link" href="{{ url_for('users.register') }}">Register</a>
-              {% endif %}
-            </div>
-          </div>
-        </div>
-      </nav>
-    </header>
+
     <div class="tabs-content" id="recommended-hotel">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-heading">
-                        <h2>NBA Team Stat Graphs for 2018-2019</h2>
+                        <h2>NBA Team Stats</h2>
                     </div>
                 </div>
                 <div class="wrapper">
                     <div class="col-md-4">
                             <ul class="tabs clearfix" data-tabgroup="third-tab-group">
-                                <li><a href="#teamfta" class="active">Free Throw Percentage<i class="fa fa-angle-right"></i></a></li>
+                                <li><a href="#livingroom" class="active">Free Throw Percentages<i class="fa fa-angle-right"></i></a></li>
                                 <li><a href="#suitroom">Suit Room <i class="fa fa-angle-right"></i></a></li>
                                 <li><a href="#swimingpool">Swiming Pool <i class="fa fa-angle-right"></i></a></li>
                                 <li><a href="#massage">Massage Service <i class="fa fa-angle-right"></i></a></li>
@@ -83,10 +47,11 @@ http://www.tooplate.com/view/2093-flight
                     </div>
                     <div class="col-md-8">
                         <section id="third-tab-group" class="recommendedgroup">
-                            <div id="teamfta">
-                                <span class="output">
-                                    {% include 'teams/teamfta.html' %}
-                                </span>
+                            <div id="livingroom">
+                                <div class="text-content">
+                                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/rMxTreSFMgE">
+                                    </iframe>
+                                </div>
                             </div>
                             <div id="suitroom">
                                 <div class="row">

@@ -18,4 +18,4 @@ def about():
 
 @main.route("/teams")
 def teams():
-	return render_template('teams/teams.html', title='Teams')
+	return render_template('teams/index.html', title='Teams')
