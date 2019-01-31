@@ -19,3 +19,7 @@ def about():
 @main.route("/teams")
 def teams():
 	return render_template('teams/index.html', title='Teams')
+
+@main.route("/guards")
+def guards():
+	return render_template('guards/index.html', title='Teams')
